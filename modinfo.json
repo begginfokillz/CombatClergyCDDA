@@ -1,0 +1,11 @@
+[
+  {
+        "type": "MOD_INFO",
+        "ident": "VERMIN",
+        "name": "Combat Clergy: Ultimate Religious Leader Starts",
+		"authors": ["begginfokillz"],
+        "description": "Adds a unique and totally op spin to religious leader starts and some custom scenarios into Cataclysm, all themed after being a combat cleric, with start gear hand picked for maximum fun",
+		"category": "content",
+		"dependencies": [ "dda" ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "scenario",
+    "ident": "bad_day_plus_church",
+    "name": "Challenge-Pray Another Day",
+    "points" : -75,	
+    "description" : "You are a priest with a burning church and an undead congregation. May god give you strength.",
+    "allowed_locs" : [ "sloc_church" ],
+    "start_name" : "Holed up in a burning church in the middle of nowhere.",
+	"professions" : ["ferallunatic"],
+    "missions": [ "MISSION_INFECTED_START_FIND_ANTIBIOTICS" ],
+    "flags" : ["INFECTED","LONE_START", "CHALLENGE"]
+  }
+]

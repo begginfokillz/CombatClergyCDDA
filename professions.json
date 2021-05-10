@@ -1,0 +1,357 @@
+[
+  {
+    "type": "item_group",
+    "id": "sopmod_test",
+    "subtype": "collection",
+    "entries": [
+	  { "item": "m203" }, { "item": "grip" }, { "item": "shoulder_strap" }, { "item": "brass_catcher" }, { "item": "barrel_big" }, { "item": "barrel_ported" }, { "item": "light_grip" }, { "item": "tuned_mechanism" }, { "item": "waterproof_gunmod" }, { "item": "match_trigger" }, { "item": "rail_laser_sight" }, { "item": "holo_sight" }, { "item": "adjustable_stock" }, { "item": "grip_mount" }, { "item": "stock_mount" }, { "item": "barrel_ported" }, { "item": "rail_mount" } ]
+	},
+	{
+	"type": "item_group",
+	"subtype": "collection",
+	"id": "charged_cell_phone",
+	"entries": [ 
+		{ "item": "light_plus_battery_cell", "ammo-item": "battery", "charges": 150, "container-item": "cell_phone" } ]
+	},
+	{
+	"type": "item_group",
+    "subtype": "collection",
+    "id": "charged_matches",
+    "entries": [ { "item": "matches", "charges": 20 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_M16_vest",
+    "entries": [ { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_M16_rig",
+    "entries": [ { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_M16_satchel",
+    "entries": [ { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_M16_deluxe_bandolier",
+    "entries": [ { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_M16_deluxe_magbandolier",
+    "entries": [ { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_M16_deluxe_leg",
+    "entries": [ { "item": "stanag30", "ammo-item": "556", "charges": 30 }, { "item": "stanag30", "ammo-item": "556", "charges": 30 } ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_rig",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_magbandolier",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_leg",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50} ]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_mp5_deluxe_vest",
+    "entries": [ { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50 }, { "item": "mp5bigmag", "ammo-item": "9mmP2", "charges": 50}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock31_satchel",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock31_leg",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock31_vest",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock31_rig",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock22_satchel",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock22_leg",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock22_vest",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_mags_glock22_rig",
+    "entries": [ { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }, { "item": "glock40bigmag", "ammo-item": "40sw", "charges": 22 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "bandit_quiver_large",
+    "entries": [ { "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"},{ "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"},{ "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "bandit_scabbard_sword",
+    "entries": [ { "item": "arming_sword"}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "bandit_scabbard_knife",
+    "entries": [ { "item": "knife_combat"}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "bandit_belt_knife",
+    "entries": [ { "item": "knife_combat"}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_ammo_loose_satchel_primary",
+    "entries": [{ "item": "556", "charges": 30}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_ammo_loose_satchel_secondary",
+    "entries": [{ "item": "40sw", "charges": 30}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "army_ammo_loose_satchel_secondary_2",
+    "entries": [{ "item": "40sw", "charges": 30}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "grenade_pouch_launcher_ammo_primary",
+    "entries": [{"item": "40x46mm_m433", "charges": 4}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "grenade_pouch_launcher_ammo_secondary",
+    "entries": [{ "item": "40x46mm_m651", "charges": 4}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "Personal_Gear_Bandit_Coat",
+    "entries": [{"item": "flintlock_ammo", "charges": 125 }, { "item": "cash_card", "charges": 2000000000 }, { "item": "ref_lighter", "charges": 100}, { "item": "crack", "charges": 300 }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "bandit_quiver_large",
+    "entries": [ { "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"},{ "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"},{ "item": "bolt_steel_bodkin" }, {"item": "bolt_steel_bodkin"}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "squire_quiver_large",
+    "entries": [ { "item": "arrow_metal" }, {"item": "arrow_metal"},{ "item": "arrow_metal" }, {"item": "arrow_metal"},{ "item": "arrow_metal" }, {"item": "arrow_metal"}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "Personal_Gear_Bandit_Ruck",
+    "entries": [{"item": "screwdriver_set"},{"item": "goggles_welding"},{"item": "large_tent_kit"},{"item": "binoculars"},{"item": "crackpipe"},{ "item": "small_repairkit" }, { "item": "survivor_mess_kit" }]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "pistol_glock_test",
+    "entries": [{ "item": "glock_31", "ammo-item": "40sw", "charges": 22, "contents-item": [ "barrel_ported", "light_grip", "tuned_mechanism", "waterproof_gunmod", "match_trigger", "rail_laser_sight"]}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "pistol_glock_test_2",
+    "entries":  [{"item": "glock_22", "ammo-item": "40sw", "charges": 22, "contents-item": ["barrel_ported", "light_grip", "tuned_mechanism", "waterproof_gunmod", "match_trigger", "rail_laser_sight", "improve_sights" ]}]
+	},
+	{
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "rifle_M16_test",
+    "entries": [{ "item": "m16a4", "ammo-item": "556", "charges": 30, "contents-item": [ "shoulder_strap", "barrel_big", "barrel_ported", "light_grip", "tuned_mechanism", "waterproof_gunmod", "match_trigger", "rail_laser_sight", "holo_sight", "adjustable_stock", "rail_mount", "m203"]}]
+	},
+		  {
+			"type": "profession",
+			"id": "feralraghead",
+			"name": "Wasteland Immam",
+			"description": "You had finally got around to setting the local church ablaze as you had planned all week, when suddenly a horde of undead infidels beset upon you with ill intent! May Allah grant them mercy, for you shall not!",
+			"points": 0,
+			"skills": [ { "level": 5, "name": "barter" }, { "level": 5, "name": "speech" }, { "level": 20, "name": "pistol" } ],
+			"traits": [ "LIAR", "PSYCHOPATH", "KILLER" ],
+			"items": {
+			  "both": {
+				"items": [ "pants", "tshirt", "socks", "kufi", "thawb", "lowtops", "holybook_quran" ],
+				"entries": [ 
+				{ "group": "charged_cell_phone" },
+				{ "item": "legrig", "contents-group": "army_mags_glock22_leg" },
+				{ "item": "holster", "contents-group": "pistol_glock_test_2" },
+				{ "item": "lamp_oil", "charges": 275, "container-item": "bottle_twoliter" },
+				{ "group": "charged_matches" }
+				]
+			  },
+			  "male": [ "briefs" ],
+			  "female": [ "bra", "panties" ]
+			}
+		  },
+		  {
+			"type": "profession",
+			"id": "feraljew",
+			"name": "Wasteland Rabbi",
+			"description": "You were screwing your congregation out of their money under the assumption of improving your temple, when a horde of undead laid siege to your hoarde of coins. You sure could use a messiah right now!",
+			"points": 0,
+			"skills": [ { "level": 20, "name": "barter" }, { "level": 10, "name": "speech" }, { "level": 10, "name": "firstaid" }, { "level": 10, "name": "pistol" } ],
+			"traits": [ "LIAR" ],
+			"items": {
+			  "both": {
+				"items": [ "pants", "leather_belt", "dress_shirt", "socks", "ballistic_vest_esapi", "kittel", "kippah", "dress_shoes", "holy_symbol", "holybook_talmud" ],
+				"entries": [ 
+				{ "group": "charged_cell_phone" },
+				{ "item": "legrig", "contents-group": "army_mags_glock22_leg" },
+				{  "item": "holster", "contents-group": "pistol_glock_test_2" }
+				]
+			  },
+			  "male": [ "briefs" ],
+			  "female": [ "bra", "panties" ]
+			}
+		  },
+		  {
+			"type": "profession",
+			"id": "ferallunatic",
+			"name": "Wasteland Priest",
+			"description": "You had finally got around to finsihing your sunday lies when your church began to burn with hellfire! While your sacred church remains ablaze, a horde of undead heretics beset upon your sacred lands with vile intent! May Jesus grant them mercy, for you shall not!",
+			"points": 0,
+			"skills": [ { "level": 35, "name": "speech" }, { "level": 20, "name": "pistol" } ],
+			"traits": [ "LIAR", "KILLER" ],
+			"items": {
+			  "both": {
+				"items": [ "pants", "longshirt", "socks", "cassock", "ballistic_vest_esapi", "dress_shoes", "holy_symbol", "holybook_bible1" ],
+				"entries": [ 
+				{ "group": "charged_cell_phone" },
+				{ "item": "legrig", "contents-group": "army_mags_glock22_leg" },
+				{ "item": "holster", "contents-group": "pistol_glock_test_2" }
+				]
+			  },
+			  "male": [ "briefs" ],
+			  "female": [ "bra", "panties" ]
+			}
+		  },
+		{
+        "type": "profession",
+        "ident": "squire",
+        "name": "Squire",
+        "description": "You had just ridden the horse to the king's joust, where you were to ascend to knighthood upon the victory of your liege, when you somehow ended up in this shithole. You might as well get comfy, since you feel you will be here a while...",
+        "points": 8,
+        "skills": [
+            {
+                "level": 20,
+                "name": "gun"
+            },
+            {
+                "level": 20,
+                "name": "archery"
+            },
+		    {
+                "level": 30,
+                "name": "dodge"
+            },
+            {
+                "level": 30,
+                "name": "barter"
+			},
+            {
+                "level": 30,
+                "name": "melee"
+            },
+            {
+                "level": 30,
+                "name": "stabbing"
+            },
+            {
+                "level": 30,
+                "name": "unarmed"
+            }
+            ],
+        "items": {
+            "both": {
+                "items": [
+			"holy_symbol_wood",
+			"gauntlets_larmor",
+			"chainmail_hood",
+			"longbow",
+			"cuirass_lightplate",
+			"leather_belt",
+			"gambeson",
+			"chainmail_suit",
+			"boots_larmor",
+			"leather_pouch",
+			"picklocks"	
+                ],
+                "entries": [
+                    { "item": "arming_sword", "container-item": "scabbard" },
+				    { "item": "quiver_large", "contents-group": "squire_quiver_large" },
+				    { "item": "quiver_large", "contents-group": "squire_quiver_large" }
+                ]
+            },
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "sports_bra",
+                "boy_shorts"
+            ]
+        }
+	}
+]
